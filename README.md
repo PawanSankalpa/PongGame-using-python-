@@ -1,17 +1,6 @@
 # 🏓 PONG GAME with Python
 
 A fun little game made while practicing Object-Oriented Programming (OOP).
-![screenshotPongGame.png](screenshotPongGame.png)
-
-## 📦 Modules Used
-
-- `turtle` (built-in Python graphics module)
-- `time` (for delays and game loop timing)
-
-## 🎮 Controls
-# 🏓 PONG GAME with Python
-
-A fun little game made while practicing Object-Oriented Programming (OOP).
 
 ![Pong Game Screenshot](screenshotPongGame.png)
 
