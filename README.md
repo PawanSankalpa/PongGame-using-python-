@@ -1,11 +1,28 @@
 # 🏓 PONG GAME with Python
 
 A fun little game made while practicing Object-Oriented Programming (OOP).
+![screenshotPongGame.png](screenshotPongGame.png)
 
 ## 📦 Modules Used
 
 - `turtle` (built-in Python graphics module)
 - `time` (for delays and game loop timing)
+
+## 🎮 Controls
+# 🏓 PONG GAME with Python
+
+A fun little game made while practicing Object-Oriented Programming (OOP).
+
+![Pong Game Screenshot](screenshotPongGame.png)
+
+---
+
+## 📦 Modules Used
+
+- `turtle` (built-in Python graphics module)
+- `time` (for delays and game loop timing)
+
+---
 
 ## 🎮 Controls
 
@@ -17,10 +34,23 @@ A fun little game made while practicing Object-Oriented Programming (OOP).
 - Move Up: `W`
 - Move Down: `S`
 
+---
+
+## 🛠️ Future Improvements
+
+- Increase game speed as rounds progress  
+- Add sound effects for collisions and scoring  
+- Connect to a database to store high scores  
+- Allow users to register with a username and password to save their highest score  
+
+---
+
 ## ✅ Requirements
 
-- Python 3.x
+- Python 3.x  
 - No external libraries needed (only built-in modules)
+
+---
 
 ## 🚀 How to Run
 
@@ -30,6 +60,3 @@ A fun little game made while practicing Object-Oriented Programming (OOP).
 
 ```bash
 python main.py
-
-
-![screenshotPongGame.png](screenshotPongGame.png)
